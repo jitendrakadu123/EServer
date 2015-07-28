@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Bluetooth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Bluetooth/jsr75_1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Bluetooth/midp_2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Bluetooth/midp_2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Bluetooth/jsr082_1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
